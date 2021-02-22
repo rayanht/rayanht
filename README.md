@@ -16,10 +16,4 @@ My interests currently lie in the following areas:
 
 Follow me on [Twitter](https://twitter.com/rayanht) or on Clubhouse - @rayanht
 
-<br/>
-<p align="center">
-  <a href="https://github.com/rayanht">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayanht&theme=nord&count_private=true&show_icons=true" alt="Rayan's Stats" >
-  </a>
-<p/>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayanht&layout=compact&langs_count=8) 
