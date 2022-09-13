@@ -14,6 +14,6 @@ My interests currently lie in the following areas:
 - DeFi
 - Cloud Infrastructure
 
-Follow me on: [Twitter](https://twitter.com/rayanht) - Clubhouse @rayanht
+Follow me on: [Twitter](https://twitter.com/rayanhtt) - Clubhouse @rayanht
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayanht&layout=compact&langs_count=8) 
