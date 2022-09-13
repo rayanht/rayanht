@@ -1,7 +1,7 @@
 ### Hi there, I'm Rayan 👋
 👨🏽‍🎓 Computing - AI & ML @ Imperial College 22'
 
-🖥️ SWE intern @ [Facebook](https://facebook.com)
+🖥️ Engineering @ [Meta](https://about.facebook.com)
 
 🔙 Former SWE intern @ [American Express](https://americanexpress.com) and [Schlumberger](https://www.slb.com)
 
