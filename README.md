@@ -1,19 +1,6 @@
 ### Hi there, I'm Rayan 👋
-👨🏽‍🎓 Computing - AI & ML @ Imperial College 22'
 
-🖥️ Engineering @ [Meta](https://about.facebook.com)
+🖥️ ML Engineer @ [Meta](https://about.facebook.com)
 
-🔙 Former SWE intern @ [American Express](https://americanexpress.com) and [Schlumberger](https://www.slb.com)
+🔗 [rayanht.xyz](https://rayanht.xyz)
 
-🔗 https://hatout.dev
-
-My interests currently lie in the following areas:
-- Deep Learning
-- Distributed Systems
-- Augmented Reality
-- DeFi
-- Cloud Infrastructure
-
-Follow me on: [Twitter](https://twitter.com/rayanhtt) - Clubhouse @rayanht
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayanht&layout=compact&langs_count=8) 
